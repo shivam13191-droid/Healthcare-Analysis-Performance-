@@ -74,7 +74,6 @@ This project demonstrates the practical application of data analytics and visual
 ## 🛠️ Tools & Technologies Used
 - **Power BI** – Dashboard Development & Visualization
 - **Excel** – Data Cleaning and Preparation
-- **SQL** – Data Extraction and Analysis
 - **DAX** – KPI and Measure Creation
 - **Data Modeling** – Relationship Management and Reporting
 
